@@ -339,19 +339,13 @@ a:hover {
   #footer .list-inline .list-inline-item { padding: 10px 10px; }
 }
 
-@media (min-width: 576px) and (max-width: 767.98px) {
-  ...
-}
+@media (min-width: 576px) and (max-width: 767.98px) {}
 
 @media (min-width: 768px) and (max-width: 991.98px) {
   .plans { min-width: unset; padding: 40px 20px; }
   .portfolio-details h2 { font-size: 30px; }
 }
 
-@media (min-width: 992px) and (max-width: 1199.98px) {
-  ...
-}
+@media (min-width: 992px) and (max-width: 1199.98px) {}
 
-@media (min-width: 1200px) {
-  ...
-}
+@media (min-width: 1200px) {}
